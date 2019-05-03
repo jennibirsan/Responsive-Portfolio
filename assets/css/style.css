@@ -269,7 +269,8 @@ body {
     #main-container,
     .main-section,
     #masthead,
-    #logo {
+    #logo,
+    .subheader {
       width: 100%;
     }
   
