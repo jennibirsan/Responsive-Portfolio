@@ -216,3 +216,58 @@ body {
     border: 0 none;
   }
   
+
+  @media screen and (max-width: 980px) {
+   
+    .container {
+       
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-container,
+    .main-section {
+      width: 100%;
+    }
+  
+    .main-section {
+      margin-top: 40px;
+    }
+  }
+  @media screen and (max-width: 768px) {
+  
+    .container {
+      /* Box-model */
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-container,
+    .main-section {
+      width: 100%;
+    }
+  
+    .main-section {
+      margin-top: 40px;
+    }
+  }
+  
+  @media screen and (max-width: 640px) {
+    .container {
+   
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-container,
+    .main-section {
+      width: 100%;
+    }
+  
+    .main-section {
+      margin-top: 40px;
+    }
+  }
+  
+  
+  
